@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [Qiita](https://qiita.com/higaki-takanori)
 
 ### LT
-[MySQLindex](https://higaki-takanori.github.io/indexLT/)
+[MySQL_index](https://higaki-takanori.github.io/indexLT/)
 
 <!-- 
 ### Career
