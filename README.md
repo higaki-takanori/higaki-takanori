@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **higaki-takanori/higaki-takanori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Career
+[Career]()
+
+## Links
+
+### 運営中の勉強会
+[エンジニアの輪 at 福岡]()
+
+### SNS, 記事
+[Twitter](https://twitter.com/higaki_program)
+
+[Qiita](https://qiita.com/higaki-takanori)
