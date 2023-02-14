@@ -13,15 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Career
-[Career]()
-
 ## Links
 
+<!-- 
 ### 運営中の勉強会
 [エンジニアの輪 at 福岡]()
-
+ -->
+ 
 ### SNS, 記事
 [Twitter](https://twitter.com/higaki_program)
 
 [Qiita](https://qiita.com/higaki-takanori)
+
+### LT
+[MySQLindex](https://higaki-takanori.github.io/indexLT/)
+
+<!-- 
+### Career
+[Career]() 
+-->
