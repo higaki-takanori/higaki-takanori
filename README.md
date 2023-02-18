@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [Qiita](https://qiita.com/higaki-takanori)
 
 ### LT 済み
-[MySQL_index](https://higaki-takanori.github.io/indexLT/)
+[【MYSQL】インデックスを少し理解した](https://higaki-takanori.github.io/indexLT/)
 
 ### LT これから 
 
