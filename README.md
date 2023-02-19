@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 [【MYSQL】インデックスを少し理解した](https://higaki-takanori.github.io/indexLT/)
 
 ### LT これから 
+[論理削除をやめて状態遷移で管理した方がいいかも](https://higaki-takanori.github.io/softDeleteLT/)
 
 <!-- 
 ### Career
