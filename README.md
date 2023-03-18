@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 
 <!-- 
 ### 運営中の勉強会
-[エンジニアの輪 at 福岡]()
+[エンジニアの輪 at 福岡](https://musubite-job.com/recruitments/pn6i3p)
  -->
  
-### SNS, 記事
+### SNS
 [Twitter](https://twitter.com/higaki_program)
 
 [Qiita](https://qiita.com/higaki-takanori)
+
+[Musibite(私の会社について知ってることなんでも教えます！)]()
 
 ### LT 済み
 [【MYSQL】インデックスを少し理解した](https://higaki-takanori.github.io/indexLT/)
