@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 [Qiita](https://qiita.com/higaki-takanori)
 
-[Musibite(私の会社について知ってることなんでも教えます！)]()
+[Musibite(私の会社について知ってることなんでも教えます！)](https://musubite-job.com/recruitments/pn6i3p)
 
 ### LT 済み
 [【MYSQL】インデックスを少し理解した](https://higaki-takanori.github.io/indexLT/)
