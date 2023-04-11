@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 ## Links
 
+### Service
+
+[(プロトタイプ)プロフィール座席表](https://profile-seat-bsoz5mv38-higaki-takanori.vercel.app/)
+
 <!-- 
 ### 運営中の勉強会
 [エンジニアの輪 at 福岡](https://musubite-job.com/recruitments/pn6i3p)
