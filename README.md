@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Service
 
-[(プロトタイプ)プロフィール座席表](https://profile-seat-bsoz5mv38-higaki-takanori.vercel.app/)
+[(プロトタイプ)プロフィール座席表](https://profile-seat.vercel.app/)
 
 <!-- 
 ### 運営中の勉強会
